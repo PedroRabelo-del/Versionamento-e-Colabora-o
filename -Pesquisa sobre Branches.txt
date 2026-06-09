@@ -1,0 +1,12 @@
+-Pesquisa sobre Branches
+
+Branch é uma cópia do projeto principal que permite fazer alterações no código sem modificar diretamente a versão que já está funcionando. Ela é muito utilizada no desenvolvimento de software porque oferece mais segurança e organização durante a criação de novas funcionalidades ou correção de problemas.
+
+As branches são importantes principalmente em projetos onde várias pessoas trabalham ao mesmo tempo. Cada desenvolvedor pode criar sua própria branch para realizar suas tarefas de forma independente, evitando conflitos com o trabalho dos outros membros da equipe.
+
+Um exemplo de uso é quando surge um bug no sistema. O programador pode criar uma branch específica para corrigir o erro e realizar testes antes de aplicar a mudança ao projeto principal. Outro exemplo é o desenvolvimento de novas funcionalidades, como uma tela de cadastro, um sistema de login ou uma calculadora.
+
+Além disso, as branches permitem testar novas ideias sem riscos. Caso a alteração não funcione como esperado, basta descartar a branch, sem afetar o restante do projeto.
+
+Assim, o uso de branches ajuda a manter o código mais organizado, facilita o trabalho em equipe e torna o desenvolvimento mais seguro.
+
