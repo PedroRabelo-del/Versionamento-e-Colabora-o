@@ -1,0 +1,39 @@
+13/05/2026
+
+Pedro Rabelo Rocha
+
+Turma: 1 ano A
+
+
+
+Hoje em dia, praticamente todo desenvolvedor usa Git e GitHub no dia a dia, mas muita gente ainda confunde os dois. Apesar de trabalharem juntos, eles não são a mesma coisa.
+
+
+
+O Git é uma ferramenta de controle de versão. Ele serve para registrar todas as alterações feitas em um projeto ao longo do tempo. Com ele, o desenvolvedor consegue salvar versões do código, voltar para versões anteriores caso algo dê errado e acompanhar tudo o que foi modificado. O Git funciona diretamente no computador do desenvolvedor, sem precisar de internet na maior parte do tempo.
+
+
+
+Já o GitHub é uma plataforma online que utiliza o Git para armazenar projetos na nuvem. Além de guardar o código, ele facilita muito o trabalho em equipe, porque permite que várias pessoas trabalhem no mesmo projeto ao mesmo tempo.
+
+
+
+A principal diferença entre os dois é que o Git é a ferramenta de versionamento, enquanto o GitHub é o ambiente onde os projetos podem ser compartilhados e organizados. Em resumo, o Git controla as versões do código e o GitHub ajuda na colaboração entre desenvolvedores.
+
+
+
+No dia a dia de um desenvolvedor, o GitHub é muito importante. Ele é usado para armazenar projetos, criar backup dos códigos e compartilhar trabalhos com outras pessoas. Em empresas, por exemplo, vários desenvolvedores trabalham juntos em um mesmo sistema, então cada um faz suas alterações em partes separadas do projeto e depois envia essas mudanças para revisão antes de juntar tudo no código principal.
+
+
+
+Outra função bastante usada no GitHub é o controle de tarefas e correções. É possível registrar erros, organizar atividades e acompanhar o andamento do projeto. Além disso, muitas empresas utilizam o GitHub como uma espécie de portfólio profissional, analisando os projetos publicados pelos candidatos durante processos seletivos.
+
+
+
+O GitHub também ajuda na automação de testes e publicação de sistemas, tornando o desenvolvimento mais organizado, seguro e eficiente.
+
+
+
+Portanto, Git e GitHub são ferramentas fundamentais para o desenvolvimento de software atualmente. O Git ajuda no controle das versões do código, enquanto o GitHub facilita o armazenamento, a colaboração e a organização dos projetos.
+
+https://github.com/dashboard
